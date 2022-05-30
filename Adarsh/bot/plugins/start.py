@@ -72,7 +72,7 @@ async def start(b, m):
             parse_mode="HTML",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('⚡️CHANNEL', url=f"https://t.me/Movietymofficial"),
-                                                                                       InlineKeyboardButton('⚡️GROUP', url='Movietym_official_group') ] ]  ) )
+                                                                                       InlineKeyboardButton('⚡️GROUP', url='https://t.me/Movietym_official_group') ] ]  ) )
                                                                                        
                                                                                        
                                                                             
